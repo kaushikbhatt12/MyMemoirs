@@ -1,5 +1,5 @@
 # MyMemoirs
-A website to save the best experiences of your life.It uses MERN.</br>
+A website to save the best experiences of your life.It uses MERN ( Mongodb , Express , React js , Node js ) .</br>
 
 
 DEMO - https://my-memoirs.netlify.app/
